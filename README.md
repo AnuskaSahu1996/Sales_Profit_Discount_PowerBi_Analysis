@@ -49,7 +49,7 @@ To build a successful financial dashboard, consider the following practices:
 
 >Use color and formatting wisely: Apply consistent colors, fonts, and styles to make your dashboard visually appealing and easy to understand.
 
-By combining properly prepared data, a well-structured data model, and engaging visualizations, you can create a powerful Power BI financial dashboard to improve your financial analysis capabilities.
+By combining properly prepared data, a well-structured data model, and engaging visualizations, you can create a powerful Power BI sales,profitand discount dashboard to improve your financial analysis capabilities.
 
 sales,profitand discount  dashboard in Power BI that can be created by following these steps:
 
