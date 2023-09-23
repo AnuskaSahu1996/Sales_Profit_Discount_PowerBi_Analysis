@@ -122,6 +122,13 @@ Key metrics to include in a sales analysis dashboard are:
 ![Screenshot (29)](https://github.com/AnuskaSahu1996/Sales_Profit_Discount_PowerBi_Analysis/assets/144818919/7e7601d8-62b4-4489-83d7-eaa9a6e8cbbc)
 
 
+#Conclusion
+
+- As per the Analysis, the commission against the sales is impressive but the profit is not upto the mark.
+- The sales and Profit are incresing every year. and Profit is consistantly increasing every quarter except 2013 qtr 3.
+- Discount also increasing gradually every year, that need to be controlled.
+
+
 
  
   
