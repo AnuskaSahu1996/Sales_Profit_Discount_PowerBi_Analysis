@@ -28,6 +28,8 @@
 
 - You will get a pop up, where all the explaination with graph presentation is available there for the choosen bar. There is a "+" add option at the right upper corner of the graph. you can add graph to your page.
 
+![Screenshot (30)](https://github.com/AnuskaSahu1996/Sales_Profit_Discount_PowerBi_Analysis/assets/144818919/deef7cc3-bca1-4ffa-8fac-6ea37e37be70)
+
 
 
 
