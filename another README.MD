@@ -2,7 +2,9 @@
 
 - The first page of S_P_D_ANALYSIS file used some button, if the button pressed simultanously with ctrl button then the graph can switch easily. And you can see ALL,SALE, PROFIT GRAPH by clicking 'SHOW ALL', 'SHOW SALES','SHOW PROFIT' correspondingly.
 
-- In second page, as per the choosen button the graphs can change with a single click.
+- In second page, created all the graph related to sale, profit,discount on the same page and overlapped the similar graph on each other.
+
+- Created button for sale, profit,discount and bookmarked to each button to their corresponding graphs. Now as per the choosen button the graphs can change with a single click.
 
 --------------------------------------------------------------------------------------------------------------------------
 
@@ -25,6 +27,8 @@
 - Right click on any bar of the chart, there is an option called "Analyze". once clicking on Analyze option you will get the option called explain increase or decrease as per the choosen bar data.
 
 - You will get a pop up, where all the explaination with graph presentation is available there for the choosen bar. There is a "+" add option at the right upper corner of the graph. you can add graph to your page.
+
+
 
 
 
