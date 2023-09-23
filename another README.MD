@@ -16,6 +16,16 @@
 
 - Then from summary dashboard page, assign the "Summary for Tool_Tip_OrederPriority" as tooltip for each and every graph.
 
+- In third page, sales by year graph has been created and added the hierarchy i.e, quarter,month,day and to see the drill level of the data. So truned on the "Drill down button". 
+
+- To go to the next level hierarchy click the button "Go to the next level in the hierarchy button". or if you want to expand all the level you can click the "Expand all down one level in the hierarchy button".
+
+- If you want to go up one level the click on "Drill up" option.
+
+- Right click on any bar of the chart, there is an option called "Analyze". once clicking on Analyze option you will get the option called explain increase or decrease as per the choosen bar data.
+
+- You will get a pop up, where all the explaination with graph presentation is available there for the choosen bar. There is a "+" add option at the right upper corner of the graph. you can add graph to your page.
+
 
 
 
