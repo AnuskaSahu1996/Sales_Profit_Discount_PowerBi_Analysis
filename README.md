@@ -74,6 +74,9 @@ Format Dashboard Theme
 -In summary dashboard create three buttons for easy access to other pages.
 -Add Back button in every page for easy access to go back to the previous page.
 
+![Screenshot (26)](https://github.com/AnuskaSahu1996/Sales_Profit_Discount_PowerBi_Analysis/assets/144818919/33aa10d8-299b-48b1-8c41-0f093042b8d2)
+
+
 # 1. Sales Analysis
 
 Getting the right sales metrics anytime, anywhere, can be the deciding factor for your next best sales strategy. Sales Reporting and Sales Prediction Dashboards share sales metrics in real-time to allow you to take key sales-oriented business decisions at the right time, may it be from your boardroom or when you’re on the move.  The dashboards can help you filter data at multiple levels. Sales analysis can help identify patterns and trends in sales data, enabling sales managers and businesses to make better decisions. 
@@ -84,6 +87,9 @@ Key metrics to include in a sales analysis dashboard are:
 - create pie chart sales by Segment to show in which segment what sales contribution has been done.
 - Added new coloumn in table view, and calculated with "commission = sale*0.5".
 - create Bar chart to show the commission by Category and Market.
+
+  ![Screenshot (27)](https://github.com/AnuskaSahu1996/Sales_Profit_Discount_PowerBi_Analysis/assets/144818919/58c11460-ab2a-46ca-a5d6-675512afdb31)
+
   
 # 2. Profit Analysis
 
@@ -98,6 +104,8 @@ Key metrics to include in a sales analysis dashboard are:
 - create Bar chart to show the commission by Category and Market.
 - Create slicer for YEAR AND QUARTER as well to do some more analysis over profit.
 
+![Screenshot (28)](https://github.com/AnuskaSahu1996/Sales_Profit_Discount_PowerBi_Analysis/assets/144818919/a8cd812d-754f-4e25-baca-43b9fe5a50b0)
+
 
 # 3. Discount Analysis
 
@@ -109,6 +117,9 @@ Key metrics to include in a sales analysis dashboard are:
 - Create Bar chart to show the discount by Category,Market and Region.
 - create pie chart discount by Segment to show in which segment what discount contribution has been done.
 - create Bar chart to show the commission by Category and Market.
+
+
+![Screenshot (29)](https://github.com/AnuskaSahu1996/Sales_Profit_Discount_PowerBi_Analysis/assets/144818919/7e7601d8-62b4-4489-83d7-eaa9a6e8cbbc)
 
 
 
